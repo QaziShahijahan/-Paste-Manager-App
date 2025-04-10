@@ -1,12 +1,26 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Paste Manager 📝
 
-Currently, two official plugins are available:
+A minimal and modern Pastebin-style web app built with **React**, **Redux**, and **Tailwind CSS**. Users can create, edit, delete, view, and share pastes. Includes a search function and a responsive, dark-themed UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 📝 Create and manage pastes
+- 🔍 Search pastes by title
+- 📋 Copy content to clipboard
+- 📅 Displays readable creation date
+- ⚡ Clean and modern UI with Tailwind CSS
+- 🔄 Redux for state management
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tech Stack
+
+- React
+- Redux Toolkit
+- Tailwind CSS
+- React Router
+- Toast Notifications (`react-hot-toast`)
+
+
+
+
